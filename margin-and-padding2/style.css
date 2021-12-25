@@ -30,8 +30,9 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 8px 24px;
   display: block;
+  margin: 8px 24px;
+  padding: 8px;
 }
 
 h1.title{
