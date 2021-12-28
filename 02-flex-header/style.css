@@ -1,6 +1,6 @@
-* {
-  border: solid red 2px;
-}
+/** {
+  border: solid yellow 0px;
+}*/
 
 
 .header  {
@@ -9,6 +9,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+  /*border: solid green 2px;*/
 }
 
 .logo {
@@ -17,9 +19,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-  justify-content: center;
-  align-content: center;
 }
 
 ul {
@@ -27,7 +26,10 @@ ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  border:  solid blue 2px;
+  /*border:  solid blue 2px;*/
+  margin: 0px;
+  padding: 0px;
+  gap:  8px;
 }
 
 a {
