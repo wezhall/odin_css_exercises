@@ -22,11 +22,15 @@ img {
 
 .text {
   display: flex;
+  justify-content: center;
 }
 
 .imag {
   display: flex;
   justify-content: center;
+}
+
+.row {
 }
 
 /* do not edit this footer */
