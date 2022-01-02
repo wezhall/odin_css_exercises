@@ -21,7 +21,12 @@ img {
 }
 
 .text {
+  display: flex;
+}
 
+.imag {
+  display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
