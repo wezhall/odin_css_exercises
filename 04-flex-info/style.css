@@ -22,11 +22,6 @@ img {
   justify-content: center;
 }
 
-.imag {
-  display: flex;
-  justify-content: center;
-}
-
 .row {
   max-width: 200px;
 }
