@@ -22,6 +22,13 @@ img {
   justify-content: center;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
+}
+
 .row {
   max-width: 200px;
 }
