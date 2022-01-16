@@ -74,3 +74,10 @@ div.header {
   font-weight: bold;
   font-size: 1.2em;
 }
+
+div.symbols {
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 auto;
+  justify-content: space-between;
+}
