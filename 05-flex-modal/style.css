@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
-  border: red solid 2px;
+  border: red solid 0px;
 }
 
 
@@ -81,14 +81,16 @@ div.header {
   align-items: center;
 }
 
-div.symbol {
+.bodymodal {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  margin: 10px auto;
+  padding: 0;
+  gap: 5px;
 }
 
 .headermodal {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  flex: 1 1 auto;
 }
