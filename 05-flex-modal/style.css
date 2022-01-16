@@ -25,6 +25,9 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  gap: 8px;
+  margin: 0;
+  padding: 20px;
 }
 
 .icon {
@@ -73,6 +76,9 @@ button.cancel {
 div.header {
   font-weight: bold;
   font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 div.symbols {
