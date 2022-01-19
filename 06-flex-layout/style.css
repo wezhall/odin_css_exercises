@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+
+* {
+  border: red solid 2px;
+}
+
 body {
   height: 100vh;
   margin: 0;
@@ -24,4 +29,8 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+ul {
+  list-style-type: none;
 }
