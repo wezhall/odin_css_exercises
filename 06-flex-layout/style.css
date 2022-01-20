@@ -5,6 +5,10 @@
   border: red solid 2px;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   height: 100vh;
   margin: 0;
@@ -14,6 +18,9 @@ body {
 
 img {
   width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 button {
@@ -41,4 +48,13 @@ ul {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
 }
