@@ -63,3 +63,8 @@ ul {
   display: flex;
   justify-content: space-evenly;
 }
+
+.input {
+  display: flex;
+  justify-content: center;
+}
