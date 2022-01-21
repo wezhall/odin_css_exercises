@@ -61,7 +61,7 @@ ul {
 
 .buttons {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .input {
