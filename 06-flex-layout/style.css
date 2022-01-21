@@ -29,6 +29,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  margin: auto 10px;
 }
 
 input {
