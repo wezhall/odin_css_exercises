@@ -1,3 +1,8 @@
 * {
 	border: red solid 2px;
 }
+
+.header {
+	align-items: center;
+	font-size: 32px;
+}
